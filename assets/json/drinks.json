@@ -1,0 +1,47 @@
+[
+  {
+    "image": "assets/images/drinkone.jpg",
+    "drink_name": "Highland Glory",
+    "shop_name": "Cask & Barrel",
+    "cask_number": "CASK-00123",
+    "age_statement": "12 Years",
+    "drink_type": "Single Malt",
+    "region": "Highlands"
+  },
+  {
+    "image": "assets/images/drinktwo.jpg",
+    "drink_name": "Islay Storm",
+    "shop_name": "The Dram House",
+    "cask_number": "CASK-00456",
+    "age_statement": "18 Years",
+    "drink_type": "Peated Scotch",
+    "region": "Islay"
+  },
+  {
+    "image": "assets/images/drinkthree.jpg",
+    "drink_name": "Speyside Jewel",
+    "shop_name": "Whisky Haven",
+    "cask_number": "CASK-00789",
+    "age_statement": "15 Years",
+    "drink_type": "Blended Scotch",
+    "region": "Speyside"
+  },
+  {
+    "image": "assets/images/drinkfour.jpg",
+    "drink_name": "Highland Glory",
+    "shop_name": "The Dram House",
+    "cask_number": "CASK-00789",
+    "age_statement": "15 Years",
+    "drink_type": "Blended Scotch",
+    "region": "Speyside"
+  },
+  {
+    "image": "assets/images/drinkfive.jpg",
+    "drink_name": "Speyside Jewel",
+    "shop_name": "Whisky Haven",
+    "cask_number": "CASK-00789",
+    "age_statement": "15 Years",
+    "drink_type": "Blended Scotch",
+    "region": "Speyside"
+  }
+]
